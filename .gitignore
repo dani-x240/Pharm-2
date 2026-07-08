@@ -1,0 +1,40 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.project
+.directory
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The Flutter tool metadata
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Web related
+node_modules/
+.tmp/
+
+# Flutter build outputs (excluding custom root APK)
+/build/
+/android/app/build/
+/ios/Flutter/
+/linux/flutter/
+/macos/Flutter/
+/windows/flutter/
+
+# Local NextJS Backup
+_nextjs_backup/
